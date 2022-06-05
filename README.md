@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerlinlopes
 - 👀 I’m interested in all coding things related
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently re-learning all javascript fundamentals
 - 💞️ I’m looking to collaborate on creating virtual games
 - 📫 Reach me on my email! =>>>> lopeskerlin@gmail.com
 
